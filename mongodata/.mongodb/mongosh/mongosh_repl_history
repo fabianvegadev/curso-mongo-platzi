@@ -1,0 +1,8 @@
+db.users.find()
+db.products.find()
+use("sample_mflix")
+db.products.find()
+.exis}t
+db.products.find()
+use("platzi_store")
+show dbs
